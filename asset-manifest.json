@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weightCalc/static/css/main.073c9b0a.css",
+    "main.js": "/weightCalc/static/js/main.13a2d6c1.js",
+    "static/js/787.7f6e13ae.chunk.js": "/weightCalc/static/js/787.7f6e13ae.chunk.js",
+    "static/media/logo.svg": "/weightCalc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weightCalc/index.html",
+    "main.073c9b0a.css.map": "/weightCalc/static/css/main.073c9b0a.css.map",
+    "main.13a2d6c1.js.map": "/weightCalc/static/js/main.13a2d6c1.js.map",
+    "787.7f6e13ae.chunk.js.map": "/weightCalc/static/js/787.7f6e13ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13a2d6c1.js"
+  ]
+}
