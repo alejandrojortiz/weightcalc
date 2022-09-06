@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/weightcalc/static/css/main.ad863c39.css",
-    "main.js": "/weightcalc/static/js/main.8bdcf54a.js",
+    "main.js": "/weightcalc/static/js/main.959fe5f5.js",
     "static/js/787.7f6e13ae.chunk.js": "/weightcalc/static/js/787.7f6e13ae.chunk.js",
     "static/media/weight-calc-icon.svg": "/weightcalc/static/media/weight-calc-icon.acb14804c8811d0f952a45faee19ab0d.svg",
     "static/media/github-icon.svg": "/weightcalc/static/media/github-icon.04be58c17b3d5e9744424d414240dd85.svg",
     "index.html": "/weightcalc/index.html",
     "static/media/linked-in-icon.svg": "/weightcalc/static/media/linked-in-icon.27a3f479ca1bbb0ceef19e395081fb94.svg",
     "main.ad863c39.css.map": "/weightcalc/static/css/main.ad863c39.css.map",
-    "main.8bdcf54a.js.map": "/weightcalc/static/js/main.8bdcf54a.js.map",
+    "main.959fe5f5.js.map": "/weightcalc/static/js/main.959fe5f5.js.map",
     "787.7f6e13ae.chunk.js.map": "/weightcalc/static/js/787.7f6e13ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad863c39.css",
-    "static/js/main.8bdcf54a.js"
+    "static/js/main.959fe5f5.js"
   ]
 }
