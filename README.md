@@ -13,4 +13,4 @@ Local storage is used to save weight-layouts and results between browser session
 
 ## Custom Assests
 
-- weights.js is a React component used to visualize the weights within react-three-fiber
+- weights.js is a custom React component used to visualize the weights within react-three-fiber
